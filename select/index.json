@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "STAR-LIGHT",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-11T14:27:40.748083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Star Light, Star Bright",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_Star_Light,_Star_Bright_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STAR LIGHT",
+      "artist": "-MASA Works DESIGN-",
+      "has_synced": true,
+      "path": "select/02_STAR_LIGHT_-MASA_Works_DESIGN-.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAR LIGHT",
+      "artist": "-MASA Works DESIGEN-",
+      "has_synced": true,
+      "path": "select/03_STAR_LIGHT_-MASA_Works_DESIGEN-.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STAR LIGHT JOURNEY",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_STAR_LIGHT_JOURNEY_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Star light, Star bright",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/05_Star_light,_Star_bright_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STAR LIGHT JOURNEY",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/06_STAR_LIGHT_JOURNEY_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STAR LIGHT VACATION",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/07_STAR_LIGHT_VACATION_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Star Light, Star Bright (Lyla)",
+      "artist": "Lisa Loeb",
+      "has_synced": false,
+      "path": "select/08_Star_Light,_Star_Bright_(Lyla)_Lisa_Loeb.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Under the Star Light",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/09_Under_the_Star_Light_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GASOLINE (feat. Star Light)",
+      "artist": "Hairu Tokyo",
+      "has_synced": false,
+      "path": "select/10_GASOLINE_(feat._Star_Light)_Hairu_Tokyo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STAR LIGHT JOURNEY",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/11_STAR_LIGHT_JOURNEY_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Star Light Zone",
+      "artist": "LongestSoloEver",
+      "has_synced": false,
+      "path": "select/12_Star_Light_Zone_LongestSoloEver.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAR-LIGHT",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_STAR-LIGHT_KMNZ.txt"
+    }
+  ]
+}

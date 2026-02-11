@@ -1,0 +1,99 @@
+# KMNZ – STAR-LIGHT
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Coming now coming now
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Coming now coming now
+KMNZ beats! mic check 1!2!
+Coming now.....321 let's go !
+もう何も止めるな！進め
+このまま進め　hand clap shout please now
+頭の中バグっちゃっていいじゃん
+心拍数　高鳴る　マシンガン
+WEEKENDばりにあがっていかないと
+人生 わりとあっという間END
+見つけ出すここで最高のbeat
+I am a crazy girl   Iam a  crazy girl
+Ah 今日はdistanceのあの星になれたら
+Starlight Starlight 今輝くよ
+Starlight Starlight もう泣かないよ
+Ah きっとdistanceのあの星になれるよ
+Starlight Starlight 行こう輝きへ
+Starlight Starlight 今輝くよ
+Yo! check one check
+泣いたって踊れる
+Local trainでブレイン悩ませる
+そのwhy?あのwhy?どのwhy?
+からメイクするnoise
+そんなんじゃ置いていかれるぞ
+Audience 頭振れ! dance dance
+MIXしていくKMNZとあがれるゲーム
+その向こうへ　ぶち上げろ
+日本全土巻き込むぞpeople
+Hey hey hey hey me
+アクセルfull my tension
+Hey hey hey hey me
+アクセルfull my tension
+ケモノズisカタリスト
+語り切ってもつづくあがるリスト
+Tool kitのごとく揃えるバチバチの
+日本語。これが犬猫スタイル
+あの日から僕らはいつまでも
+ずっと離れないでいよう
+このまま2人でいよう
+このまま2人でいよう
+Ah 今日はdistanceのあの星になれたら
+Starlight Starlight 今輝くよ
+Starlight Starlight もう泣かないよ
+Ah きっとdistanceのあの星になれるよ
+Starlight Starlight 行こう輝きへ
+Starlight Starlight 今輝くよ
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Coming now coming now
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Coming now coming now
+あの日から僕らはいつまでも
+ずっと離れないでいよう
+このまま2人でいよう
+このまま2人でいよう
+Ah きっとdistanceのあの星になれるよ
+Starlight Starlight 行こう輝きへ
+Starlight Starlight 今輝くよ
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Coming now coming now
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Big up stand up please!
+あげるtension
+Coming now coming now
+```
